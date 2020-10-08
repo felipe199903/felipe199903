@@ -5,3 +5,5 @@
 #### Trying is the first step of learning and finally I always want to leave everything better than when I found it.. 
 
 #### Currently, I have interesting in #Linux for automation and in the moment I focused on implementing #DevOps... 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipe199903)](https://github.com/anuraghazra/github-readme-stats)
